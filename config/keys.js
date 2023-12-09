@@ -1,4 +1,4 @@
 // config/keys.js
-const mongoURI = 'mongodb+srv://mohammedSalman999:Zeeshan1khan$@cluster0.hfgcn4f.mongodb.net/?retryWrites=true&w=majority';
+const mongoURI = 'replace-it-with-your-mongodb-key';
 
 export { mongoURI };
